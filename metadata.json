@@ -99,7 +99,7 @@
       "advisories": [],
       "isGameCenterEnabled": false,
       "kind": "software",
-      "minimumOsVersion": "16.0",
+      "minimumOsVersion": "17.0",
       "trackCensoredName": "Fastmarkets Dashboard",
       "languageCodesISO2A": [
         "EN"
